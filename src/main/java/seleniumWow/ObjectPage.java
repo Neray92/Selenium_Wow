@@ -1,4 +1,4 @@
-package Jenkins.Selenium_wow;
+package seleniumWow;
 
 import java.util.ArrayList;
 import java.util.List;
